@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <!-- Circle elements representing a hub -->
+  <circle cx="120" cy="100" r="50" fill="#FFA5AB"/>
+  <circle cx="120" cy="100" r="40" fill="white"/>
+  <circle cx="120" cy="100" r="30" fill="#FFA5AB"/>
+  
+  <!-- Lines connecting to the hub -->
+  <line x1="120" y1="50" x2="120" y2="30" stroke="#FFA5AB" stroke-width="6" stroke-linecap="round"/>
+  <line x1="120" y1="150" x2="120" y2="170" stroke="#FFA5AB" stroke-width="6" stroke-linecap="round"/>
+  <line x1="70" y1="100" x2="50" y2="100" stroke="#FFA5AB" stroke-width="6" stroke-linecap="round"/>
+  <line x1="170" y1="100" x2="190" y2="100" stroke="#FFA5AB" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Company name -->
+  <text x="240" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFA5AB">
+    SkillHub
+  </text>
+</svg>
